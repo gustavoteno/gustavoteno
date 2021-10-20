@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://github.com/getbrandao/getbrandao/blob/main/sources/hi_wave.gif" width="30px">, I'm Gustavo Tenorio</h2>
+<h2 align="center">Hi there <img src="https://github.com/getbrandao/getbrandao/blob/main/sources/hi_wave.gif" width="30px">, I'm Gustavo Brandão</h2>
 
 <p align="center">
   <a href="https://twitter.com/getbrandao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="getbrandao" height="20" width="20" /></a>
